@@ -1,10 +1,10 @@
 ### Hi, I'm Andreas 👋
 
-I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center](http://dfki-bremen.de) in Bremen, Germany.
+I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](http://dfki-bremen.de) in the field of task planning for autonomous systems. The research projects I am involved in are [Hi-Digit Pro 4.0](https://robotik.dfki-bremen.de/en/research/projects/hi-digit-pro-40.html) and [Knowledge4Retail](https://knowledge4retail.org/).
 
 As experienced mentor I am always happy to do workshops at your next Hackathon!
 
-I like to do some Game Development🎮 or web-projects🌍 in my free time (some of that finds its way to the repo section here on github).
+When I am on the PC in my free time I like to do some Game Development🎮 or web-projects🌍 (some of that finds its way to the repo section here on github).
 
 Feel free to follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
