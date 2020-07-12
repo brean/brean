@@ -1,6 +1,6 @@
 ### Hi, I'm Andreas 👋
 
-I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](http://dfki-bremen.de) in the field of task planning for autonomous systems. The research projects I am involved in are [Hi-Digit Pro 4.0](https://robotik.dfki-bremen.de/en/research/projects/hi-digit-pro-40.html) and [Knowledge4Retail](https://knowledge4retail.org/).
+I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) in the field of task planning for autonomous systems. The research projects I am involved in are [Hi-Digit Pro 4.0](https://robotik.dfki-bremen.de/en/research/projects/hi-digit-pro-40.html) and [Knowledge4Retail](https://knowledge4retail.org/).
 
 **As experienced mentor I am always happy to do workshops at your next Hackathon!**
 
