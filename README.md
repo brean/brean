@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Andreas 👋
+
+I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center](http://dfki-bremen.de) in Bremen, Germany.
+
+As experienced mentor I am always happy to do workshops at your next Hackathon!
+
+I like to do some Game Development🎮 or web-projects🌍 in my free time (some of that finds its way to the repo section here on github).
+
+Feel free to follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
