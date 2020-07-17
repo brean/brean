@@ -4,7 +4,9 @@ I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotic
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build robots 🤖 (some of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
-Feel free to follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
+**I am always up for joining Game Jams and Hackathons as mentor or participant** so feel free to contact me.
+
+You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
