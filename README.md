@@ -2,7 +2,7 @@
 
 I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) in the field of task planning for autonomous systems. The research projects I am involved in are [Hi-Digit Pro 4.0](https://robotik.dfki-bremen.de/en/research/projects/hi-digit-pro-40.html) and [Knowledge4Retail](https://knowledge4retail.org/).
 
-When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build robots 🤖 (some of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
+When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build robots 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
 **I am always up for joining Game Jams and Hackathons as mentor or participant** so feel free to contact me.
 
