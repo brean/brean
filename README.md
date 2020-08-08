@@ -4,7 +4,7 @@ I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotic
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build robots 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
-I am currently working on a Robotics introduction University course for beginners.
+I am currently working on a Robotics introduction university course for beginners.
 
 **I am always up for joining Game Jams and Hackathons as mentor or participant** so feel free to contact me.
 
