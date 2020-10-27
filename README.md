@@ -10,6 +10,8 @@ I am currently working on a Robotics introduction university course for beginner
 
 You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=brean&show_icons=true)
+
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
