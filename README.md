@@ -10,7 +10,7 @@ I am currently working on a Robotics introduction university course for beginner
 
 You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=brean&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=brean&count_private=false&include_all_commits=true&show_icons=true)
 
 ![trophies](https://github-profile-trophy.vercel.app/?username=brean)
 
