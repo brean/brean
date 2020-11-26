@@ -12,6 +12,8 @@ You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=brean&show_icons=true)
 
+![trophies](https://github-profile-trophy.vercel.app/?username=brean)
+
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
