@@ -8,10 +8,6 @@ When I am on the PC in my free time I like to do some Game Development🎮, web-
 
 You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=brean&count_private=false&include_all_commits=true&show_icons=true&theme=dark)
-
-![trophies](https://github-profile-trophy.vercel.app/?username=brean&theme=onedark)
-
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
