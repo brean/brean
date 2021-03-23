@@ -4,7 +4,7 @@ I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotic
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build robots 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
-**I am always up for joining Game Jams and Hackathons as mentor or participant** so feel free to contact me.
+**I am always up for joining Game Jams and Hackathons as coach or participant** so feel free to contact me.
 
 You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
 
