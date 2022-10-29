@@ -6,8 +6,6 @@ When I am on the PC in my free time I like to do some Game Development🎮, web-
 
 **I am always up for joining Game Jams and Hackathons as coach or participant** so feel free to contact me.
 
-You can follow me on [twitter](https://twitter.com/datanonsense) or [instagram](https://www.instagram.com/datanonsense/)
-
 <!--
 **brean/brean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
