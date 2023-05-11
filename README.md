@@ -1,14 +1,27 @@
 ### Hi, I'm Andreas 👋
 
-I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) in the field of autonomous navigation and task planning. The research projects I am involved in are:
- * [SeMoSys](https://robotik.dfki-bremen.de/en/research/projects/semosys/) for autonomous task planning in aerospace ✈️ and
- * [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) for robot navigation systems on the moon 🌕.
+I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) in the research projects
+ * [SeMoSys](https://robotik.dfki-bremen.de/en/research/projects/semosys/) (in production robotics ⚙️) for autonomous task planning in aerospace production ✈️ and
+ * [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) (in space robotics ✨) for robot navigation on the moon 🌕.
 
-**If you are interested in algorithm optimization, have a strong programming background and want to work on optimizing robot navigation (Visual Odometry/SLAM) for the MOON contact me!**
+<!--
+My interests are:
+ * robots in space ✨
+ * task and motion planning 🗺️
+ * controling robot fleets over the internet 🌍
+ * game development 🎮 (using game engines for robot simulation)
+ * building robots 🤖
+-->
 
-When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify robots 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
+When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify [robots](https://github.com/brean/my-robot-fleet) 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
-**I am always up for joining Game Jams and Hackathons as coach or participant** so feel free to contact me.
+#### 🎓 Thesis supervision
+
+I am supervising **BA/MA thesis**, ask me for topics if you want to write your thesis at DFKI!
+
+#### 👨‍💻 Hackathons and Game Development
+
+I am always up for joining Game Jams and Hackathons as coach or participant so feel free to contact me.
 
 My Global Game Jam profile can be found [here](https://globalgamejam.org/users/brean).
 
