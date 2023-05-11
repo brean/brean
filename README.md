@@ -2,7 +2,7 @@
 
 I am a Researcher and Software Engineer 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) in the field of task planning for autonomous systems. The research projects I am involved in are [SeMoSys](https://robotik.dfki-bremen.de/en/research/projects/semosys/) for autonomous task planning and [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) for robot navigation systems on the moon.
 
-**If you have interest in algorithm optimization, a strong programming background and want to write your (MA) thesis on optimizing robot navigation for the moon contact me!**
+**If you have interest in algorithm optimization, a strong programming background and want to work on optimizing robot navigation for the moon 🌕 contact me!**
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify robots 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
