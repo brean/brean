@@ -17,7 +17,7 @@ When I am on the PC in my free time I like to do some Game Development🎮, web-
 
 #### 🎓 Thesis supervision
 
-I am supervising **BA/MA thesis**, ask me for topics if you want to write your thesis at DFKI!
+I am supervising **B.Sc./M.Sc. thesis**, ask me for topics if you want to write your thesis at DFKI!
 
 #### 👨‍💻 Hackathons and Game Development
 
