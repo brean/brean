@@ -19,7 +19,7 @@ When I am on the PC in my free time I like to do some Game Development🎮, web-
 
 I am supervising **B.Sc./M.Sc. thesis**, ask me for topics if you want to write your thesis at DFKI in Bremen or remote!
 
-#### 🤖 Robot supervisor
+#### 🤖 Robot maintainer
 I am responsible/contact version for 17 robot systems and two Machine Learning Accelerator Demonstrator at [DFKI-RIC](https://robotik.dfki-bremen.de/en/):
 
 | Image | Name | Amount |
