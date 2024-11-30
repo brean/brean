@@ -1,8 +1,9 @@
 ### Hi, I'm Andreas 👋
 
 I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) as Software Engineer in the research projects
- * [SeMoSys](https://robotik.dfki-bremen.de/en/research/projects/semosys/) (in production robotics ⚙️) for autonomous task planning in aerospace production ✈️ and
  * [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) (in space robotics ✨) for robot navigation on the moon 🌕.
+
+My work is always connected to high-level task planning for robotics, lately focusing on Aritficial Intelligence in space and building software to easily configure robots.
 
 <!--
 My interests are:
