@@ -27,9 +27,9 @@ Don't hesitate to ask if you have any questions about these systems or **like to
 
 | Image | Name | Amount |
 | -- | -- | -- |
-| <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/0/f/csm_marlin_e15bef55b0.jpg" width="80" /> | [MARLIN](https://robotik.dfki-bremen.de/en/research/robot-systems/marlin) | 1 |
+| <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/0/f/csm_marlin_e746643047.jpg" width="80" /> | [MARLIN](https://robotik.dfki-bremen.de/en/research/robot-systems/marlin) | 1 |
 | <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/7/4/csm_20190401_HMI_mobipick_2_74febddc1c.jpg" width="80" /> | [Mobipick](https://robotik.dfki-bremen.de/en/research/robot-systems/mobipick) | 1 |
-| <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/e/f/csm_helloric_bots_ba979dd7ec.jpg" width="80" /> | [OfficeRobot (RICBot)](https://robotik.dfki-bremen.de/en/research/robot-systems/officerobot) | 3 |
+| <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/e/f/csm_helloric_bots_a0eba8a302.jpg" width="80" /> | [OfficeRobot (RICBot)](https://robotik.dfki-bremen.de/en/research/robot-systems/officerobot) | 3 |
 | <img src="https://robotik.dfki-bremen.de/fileadmin/content/ric/research/robots/turtlebot3/turtlebot03.jpg" width="80" /> | [Turtlebot3](https://robotik.dfki-bremen.de/en/research/robot-systems/turtlebot-3) | 12 |
 | <img src="https://robotik.dfki-bremen.de/fileadmin/_processed_/2/8/csm_MLAD_f1891776f5.jpg" width="80" /> | [MLAD (Machine Learning Accelerator Demonstrator)](https://robotik.dfki-bremen.de/en/research/robot-systems/mlad) | 2 |
 
