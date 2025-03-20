@@ -1,6 +1,6 @@
 ### Hi, I'm Andreas 👋
 
-I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) as Software Engineer in the research projects
+I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Bremen](https://robotik.dfki-bremen.de/en/) as Software Engineer in the research project
  * [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) (in space robotics ✨) for robot navigation on the moon 🌕.
 
 My work is always connected to high-level task planning for robotics, lately focusing on Aritficial Intelligence in space and building software to easily configure robots.
@@ -20,7 +20,7 @@ When I am on the PC in my free time I like to do some Game Development🎮, web-
 
 I am supervising **B.Sc./M.Sc. thesis**, ask me for topics if you want to write your thesis at DFKI RIC **in Bremen**!
 
-#### 🤖 Robot maintainer
+#### 🤖 Robot maintainance
 I am responsible/contact person for 17 robot systems and two Machine Learning Accelerator Demonstrator at [DFKI-RIC](https://robotik.dfki-bremen.de/en/):
 
 Don't hesitate to ask if you have any questions about these systems or **like to work with them for your Bacelor/Master thesis!**
