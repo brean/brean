@@ -17,10 +17,6 @@ My interests are:
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify [robots](https://github.com/brean/my-robot-fleet) 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
 
-#### 🎓 Thesis supervision
-
-I am supervising **B.Sc./M.Sc. thesis**, ask me for topics if you want to write your thesis at DFKI RIC **in Bremen**!
-
 #### 🤖 Robot maintainance
 I am responsible/contact person for 17 robot systems and two Machine Learning Accelerator Demonstrator at [DFKI-RIC](https://robotik.dfki-bremen.de/en/):
 
