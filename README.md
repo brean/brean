@@ -4,7 +4,7 @@ I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Br
  * [SAMLER-KI](https://robotik.dfki-bremen.de/en/research/projects/samler-ki/) (in space robotics ✨) for robot navigation on the moon 🌕.
  * [FieldCoBots](https://robotik.dfki-bremen.de/en/research/projects/fieldcobots) (in terrestial robotics 🌱) for straberry picking robots 🍓.
 
-My work is always connected to high-level task planning for robotics, lately focusing on Aritficial Intelligence in space and building software to easily configure robots.
+My work is always connected to high-level task planning for robotics, lately focusing on Artificial Intelligence in space and building software to easily configure robots.
 
 <!--
 My interests are:
