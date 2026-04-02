@@ -6,6 +6,12 @@ I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Br
 
 My work is always connected to high-level task planning for robotics.
 
+#### I AM MOVING TO ⛰ Codeberg ⛰
+
+Because of the inability of Microsoft to communicate changes and their unpleasent decisions in developing github lately (for example [[1](https://www.msn.com/en-us/news/technology/copilot-is-now-injecting-ads-into-github-pull-requests-its-a-disaster/ar-AA1ZJRVJ)] or [[2](https://www.msn.com/en-us/technology/artificial-intelligence/github-to-use-copilot-interaction-data-for-ai-model-training/ar-AA1Zq1hP)]) I will move to [codeberg.org/brean](https://codeberg.org/brean) as fast as I can.
+
+The github pages and projects will only be proxies to the codeberg pages and repositories and will be removed from github over time!
+
 <!--
 My interests are:
  * robots in space ✨
