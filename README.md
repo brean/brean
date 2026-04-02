@@ -6,12 +6,6 @@ I am a Researcher 👨‍💻 working at the [DFKI Robotics Innovation Center Br
 
 My work is always connected to high-level task planning for robotics.
 
-#### I AM MOVING TO ⛰ Codeberg ⛰
-
-Because of the inability of Microsoft to communicate changes and their unpleasent decisions in developing github lately (for example [[1](https://www.msn.com/en-us/news/technology/copilot-is-now-injecting-ads-into-github-pull-requests-its-a-disaster/ar-AA1ZJRVJ)] or [[2](https://www.msn.com/en-us/technology/artificial-intelligence/github-to-use-copilot-interaction-data-for-ai-model-training/ar-AA1Zq1hP)]) I will move to [codeberg.org/brean](https://codeberg.org/brean) as fast as I can.
-
-The github pages and projects will only be proxies to the codeberg pages and repositories and will be removed from github over time!
-
 <!--
 My interests are:
  * robots in space ✨
@@ -22,6 +16,12 @@ My interests are:
 -->
 
 When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify [robots](https://github.com/brean/my-robot-fleet) 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
+
+#### I AM MOVING TO ⛰ Codeberg ⛰
+
+Because of the inability of Microsoft to communicate changes and their unpleasent decisions in developing github lately (for example [[1](https://www.msn.com/en-us/news/technology/copilot-is-now-injecting-ads-into-github-pull-requests-its-a-disaster/ar-AA1ZJRVJ)] or [[2](https://www.msn.com/en-us/technology/artificial-intelligence/github-to-use-copilot-interaction-data-for-ai-model-training/ar-AA1Zq1hP)]) I will move to [codeberg.org/brean](https://codeberg.org/brean) as fast as I can.
+
+The github pages and projects will only be proxies to the codeberg pages and repositories and will be removed from github over time!
 
 #### 🤖 Robot maintainance
 I am responsible/contact person for 17 robot systems and two Machine Learning Accelerator Demonstrator at [DFKI-RIC](https://robotik.dfki-bremen.de/en/):
