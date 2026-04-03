@@ -15,7 +15,7 @@ My interests are:
  * building robots 🤖
 -->
 
-When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify [robots](https://github.com/brean/my-robot-fleet) 🤖 (most of that finds its way to the [Repositories](https://github.com/brean?tab=repositories) section here on github).
+When I am on the PC in my free time I like to do some Game Development🎮, web-projects🌍 or build/modify [robots](https://codeberg.org/brean/my-robot-fleet) 🤖 (most of that finds its way to the [Repositories](https://codeberg.org/brean?tab=repositories) section here on github).
 
 #### I AM MOVING TO ⛰ Codeberg ⛰
 
